@@ -9,8 +9,6 @@
     color:white
 }
 
-
-
 .inputStyle{
     width: 400px!important;
     margin-bottom: 20px;
@@ -59,11 +57,4 @@
     width: 100%;
     position: absolute;
     /* bottom:0px */
-}
-.MuiFormHelperText-root{
-    display: flex;
-    justify-content: right;
-    position: relative;
-    bottom: 15px;
-    font-size: 14px !important;
 }
